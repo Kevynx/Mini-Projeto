@@ -1,8 +1,8 @@
 body {
     font-family: Helvetica;
     text-align: center;
-    color: rgb(127, 139, 253);
-    background-color: rgb(6, 93, 128);
+    color: rgb(248, 248, 248);
+    background-color: rgb(13, 99, 59);
     padding: 0;
     margin: 0;
 }
@@ -11,7 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     padding:20px;
-    border-bottom: 1px solid rgba(189, 224, 30, 0.548)
+    border-bottom: 1px solid rgb(255, 255, 255)
 }
 
 nav ul{
@@ -25,7 +25,7 @@ ul li{
 }
 
 ul li a{
-    color: rgb(16, 236, 189);
+    color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -33,11 +33,11 @@ h1 {
 }
 
 img {
-    border: 1px solid rgb(60, 189, 248);
+    border: 1px solid rgba(0, 0, 0, 0.151);
 }
 footer{
     padding: 20px;
-    border-top: 1px solid rgb(10, 165, 165);
+    border-top: 1px solid rgb(255, 255, 255);
     margin-top: 20px;
     font-size: 20px;
 }
